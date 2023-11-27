@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0; /* Reset margin */
+    background-color: black; /* Set background color to black */
+    overflow: hidden; /* Hide any content outside the viewport */
+}
+
+#board {
+    /* Your existing styles */
+    background-image: url("./skyyy.jpg");
+    background-size: cover; /* Adjust the background size */
+    background-repeat: no-repeat;
+    background-position: center; /* Center the background image */
+}
